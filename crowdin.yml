@@ -1,3 +1,3 @@
 files:
-  - source: CONTRIBUTING.md
-    translation: done/CONTRIBUTING_ukr.md
+  - source: README.md
+    translation: localized/README(uk).md

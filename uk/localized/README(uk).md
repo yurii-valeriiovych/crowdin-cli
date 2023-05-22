@@ -1,25 +1,25 @@
-# Website
+# Веб-сайт
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Цей сайт побудований з використанням [Docusaurus 2](https://docusaurus.io/), сучасний генератор статичних сайтів.
 
-### Installation
+### Інсталяція
 
 ```
 $ npm i
 ```
 
-### Local Development
+### Місцевий Розвиток
 
 ```
-$ npm start
+$ npm старт
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Ця команда запускає локальний сервер розробника і відкриває вікно браузера. Більшість змін відображаються в живих без перезапуску сервера.
 
-### Build
+### Збірка
 
 ```
-$ npm run build
+$ npm запуск збірки
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Ця команда генерує статичний вміст у директорію `конструювати` і може бути проведений з використанням служби фіксованого вмісту.

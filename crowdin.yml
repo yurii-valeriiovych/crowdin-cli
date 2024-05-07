@@ -1,3 +1,5 @@
 files:
   - source: README.md
     translation: localized/README(uk).md
+  - source: /trans*.jason
+    translation: '%locale_with_underscore%'
